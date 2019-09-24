@@ -26,7 +26,7 @@ section .wave:before{
     content: '';
     width: 100%;
     height: 143px;
-    background: url(image/wave.png);
+    background: url(wave.png);
     position: absolute;
     top: 0;
     left: 0;
